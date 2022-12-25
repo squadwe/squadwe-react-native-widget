@@ -34,7 +34,7 @@ cd ios && pod install
 
 ### How to use
 
-1. Create a website channel in squadwe server by following the steps described here https://www.squadwe.com/docs/channels/website
+1. Create a website channel in squadwe server by following the steps described here https://www.squadwe.com/docs/product/channels/live-chat/create-website-channel
 2. Replace `websiteToken` prop and `baseUrl`
 
 ```

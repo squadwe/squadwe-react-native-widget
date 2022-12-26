@@ -175,6 +175,4 @@ The whole example is in the `/example` folder.
 
 Feel free to send us feedback on [Twitter](https://twitter.com/squadweapp) or [file an issue](https://github.com/squadwe/squadwe-mobile-app/issues).
 
-If there's anything you'd like to chat about, please feel free to join our [Discord](https://discord.gg/cJXdrwS) chat!
-
 _Squadwe_ &copy; 2017-2022, Squadwe Inc - Released under the MIT License.
